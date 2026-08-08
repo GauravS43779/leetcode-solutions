@@ -9,6 +9,7 @@ Leetcode Solutions for the practice
 | [0001-two-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/GauravS43779/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/GauravS43779/leetcode-solutions/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GauravS43779/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -20,6 +21,7 @@ Leetcode Solutions for the practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/GauravS43779/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/GauravS43779/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -67,6 +69,7 @@ Leetcode Solutions for the practice
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GauravS43779/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/GauravS43779/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -123,4 +126,12 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/GauravS43779/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
