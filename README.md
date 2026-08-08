@@ -77,6 +77,7 @@ Leetcode Solutions for the practice
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/GauravS43779/leetcode-solutions/tree/master/0066-plus-one) |
 ## Pigeonhole Principle
