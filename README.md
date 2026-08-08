@@ -7,6 +7,7 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/GauravS43779/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/GauravS43779/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0027-remove-element) |
@@ -33,6 +34,7 @@ Leetcode Solutions for the practice
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GauravS43779/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [1975-maximum-matrix-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GauravS43779/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
@@ -144,6 +146,7 @@ Leetcode Solutions for the practice
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GauravS43779/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0088-merge-sorted-array) |
