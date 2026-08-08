@@ -80,6 +80,7 @@ Leetcode Solutions for the practice
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/0013-roman-to-integer) |
@@ -105,4 +106,12 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/GauravS43779/leetcode-solutions/tree/master/1390-four-divisors) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
