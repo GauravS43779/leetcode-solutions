@@ -7,6 +7,7 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/GauravS43779/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/GauravS43779/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -30,6 +31,7 @@ Leetcode Solutions for the practice
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/GauravS43779/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/GauravS43779/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -80,4 +82,8 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GauravS43779/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
