@@ -8,6 +8,7 @@ Leetcode Solutions for the practice
 | ------- |
 | [0118-pascals-triangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GauravS43779/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/GauravS43779/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2402-meeting-rooms-iii](https://github.com/GauravS43779/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GauravS43779/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
@@ -47,8 +48,22 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GauravS43779/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/GauravS43779/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GauravS43779/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/GauravS43779/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+## Depth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/GauravS43779/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/GauravS43779/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union-Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/GauravS43779/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
