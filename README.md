@@ -12,6 +12,7 @@ Leetcode Solutions for the practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/GauravS43779/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/GauravS43779/leetcode-solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -74,6 +75,7 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/GauravS43779/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GauravS43779/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/GauravS43779/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
