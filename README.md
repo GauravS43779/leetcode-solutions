@@ -6,6 +6,7 @@ Leetcode Solutions for the practice
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GauravS43779/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/GauravS43779/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -35,6 +36,7 @@ Leetcode Solutions for the practice
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/0001-two-sum) |
 | [2402-meeting-rooms-iii](https://github.com/GauravS43779/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
