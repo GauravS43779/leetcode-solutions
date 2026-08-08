@@ -13,6 +13,7 @@ Leetcode Solutions for the practice
 | [0035-search-insert-position](https://github.com/GauravS43779/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/GauravS43779/leetcode-solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GauravS43779/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -36,6 +37,7 @@ Leetcode Solutions for the practice
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [2402-meeting-rooms-iii](https://github.com/GauravS43779/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GauravS43779/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
@@ -143,4 +145,5 @@ Leetcode Solutions for the practice
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
