@@ -14,6 +14,7 @@ Leetcode Solutions for the practice
 | [0033-search-in-rotated-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/GauravS43779/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/GauravS43779/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/GauravS43779/leetcode-solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -31,6 +32,7 @@ Leetcode Solutions for the practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/GauravS43779/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/GauravS43779/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -168,4 +170,8 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GauravS43779/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/GauravS43779/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
