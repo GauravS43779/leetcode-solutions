@@ -19,6 +19,7 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/GauravS43779/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +87,8 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GauravS43779/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Graph Coloring
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/GauravS43779/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
