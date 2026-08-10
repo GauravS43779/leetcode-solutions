@@ -20,6 +20,7 @@ Leetcode Solutions for the practice
 | [0088-merge-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/GauravS43779/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/GauravS43779/leetcode-solutions/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -48,6 +49,7 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
 | [2402-meeting-rooms-iii](https://github.com/GauravS43779/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GauravS43779/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
@@ -67,6 +69,7 @@ Leetcode Solutions for the practice
 | ------- |
 | [0001-two-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2402-meeting-rooms-iii](https://github.com/GauravS43779/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Heap (Priority Queue)
@@ -175,4 +178,13 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GauravS43779/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
