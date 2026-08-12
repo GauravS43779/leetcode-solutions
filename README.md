@@ -94,6 +94,7 @@ Leetcode Solutions for the practice
 | [0033-search-in-rotated-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/GauravS43779/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0633-sum-of-square-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/GauravS43779/leetcode-solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GauravS43779/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -126,6 +127,7 @@ Leetcode Solutions for the practice
 | [0013-roman-to-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GauravS43779/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/GauravS43779/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0633-sum-of-square-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/GauravS43779/leetcode-solutions/tree/master/1390-four-divisors) |
 ## Pigeonhole Principle
@@ -178,6 +180,7 @@ Leetcode Solutions for the practice
 | [0027-remove-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
