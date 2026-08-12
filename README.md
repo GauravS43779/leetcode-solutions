@@ -61,6 +61,7 @@ Leetcode Solutions for the practice
 | [0014-longest-common-prefix](https://github.com/GauravS43779/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/GauravS43779/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/GauravS43779/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/GauravS43779/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/GauravS43779/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
@@ -74,6 +75,7 @@ Leetcode Solutions for the practice
 | [0013-roman-to-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/GauravS43779/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2402-meeting-rooms-iii](https://github.com/GauravS43779/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Heap (Priority Queue)
@@ -191,8 +193,13 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
