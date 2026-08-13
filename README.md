@@ -40,6 +40,7 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GauravS43779/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/GauravS43779/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GauravS43779/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -136,6 +137,7 @@ Leetcode Solutions for the practice
 | [0009-palindrome-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GauravS43779/leetcode-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/GauravS43779/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/GauravS43779/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -234,4 +236,8 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GauravS43779/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
