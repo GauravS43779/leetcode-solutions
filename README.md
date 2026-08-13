@@ -69,6 +69,7 @@ Leetcode Solutions for the practice
 | [0014-longest-common-prefix](https://github.com/GauravS43779/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/GauravS43779/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/GauravS43779/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/GauravS43779/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/GauravS43779/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
