@@ -20,6 +20,7 @@ Leetcode Solutions for the practice
 | [0088-merge-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GauravS43779/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GauravS43779/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GauravS43779/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@ Leetcode Solutions for the practice
 | [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GauravS43779/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GauravS43779/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/GauravS43779/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/GauravS43779/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Greedy
