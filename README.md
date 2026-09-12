@@ -81,6 +81,7 @@ Leetcode Solutions for the practice
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/GauravS43779/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/GauravS43779/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/GauravS43779/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -192,6 +193,7 @@ Leetcode Solutions for the practice
 | [0020-valid-parentheses](https://github.com/GauravS43779/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0844-backspace-string-compare](https://github.com/GauravS43779/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
