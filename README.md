@@ -154,6 +154,7 @@ Leetcode Solutions for the practice
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/GauravS43779/leetcode-solutions/tree/master/1390-four-divisors) |
 | [3870-count-commas-in-range](https://github.com/GauravS43779/leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/GauravS43779/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
