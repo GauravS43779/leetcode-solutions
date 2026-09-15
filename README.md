@@ -69,6 +69,7 @@ Leetcode Solutions for the practice
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GauravS43779/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/GauravS43779/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/GauravS43779/leetcode-solutions/tree/master/0020-valid-parentheses) |
@@ -91,6 +92,7 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GauravS43779/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GauravS43779/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -260,4 +262,8 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GauravS43779/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GauravS43779/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
