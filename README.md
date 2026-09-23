@@ -34,6 +34,7 @@ Leetcode Solutions for the practice
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GauravS43779/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/GauravS43779/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1539-kth-missing-positive-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GauravS43779/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/GauravS43779/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -96,6 +97,7 @@ Leetcode Solutions for the practice
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GauravS43779/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/GauravS43779/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Hash Table
 |  |
@@ -113,6 +115,7 @@ Leetcode Solutions for the practice
 | [0424-longest-repeating-character-replacement](https://github.com/GauravS43779/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GauravS43779/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2402-meeting-rooms-iii](https://github.com/GauravS43779/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
@@ -137,6 +140,7 @@ Leetcode Solutions for the practice
 | [0704-binary-search](https://github.com/GauravS43779/leetcode-solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GauravS43779/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GauravS43779/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/GauravS43779/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
@@ -286,4 +290,5 @@ Leetcode Solutions for the practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/GauravS43779/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/GauravS43779/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GauravS43779/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
