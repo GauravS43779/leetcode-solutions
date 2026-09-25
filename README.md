@@ -28,6 +28,7 @@ Leetcode Solutions for the practice
 | [0136-single-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravS43779/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/GauravS43779/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/GauravS43779/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -175,6 +176,7 @@ Leetcode Solutions for the practice
 | [0013-roman-to-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GauravS43779/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/GauravS43779/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/GauravS43779/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -238,6 +240,7 @@ Leetcode Solutions for the practice
 | [0125-valid-palindrome](https://github.com/GauravS43779/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravS43779/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/GauravS43779/leetcode-solutions/tree/master/0844-backspace-string-compare) |
