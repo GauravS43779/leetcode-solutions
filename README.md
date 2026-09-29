@@ -35,6 +35,7 @@ Leetcode Solutions for the practice
 | [0540-single-element-in-a-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GauravS43779/leetcode-solutions/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0986-interval-list-intersections](https://github.com/GauravS43779/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GauravS43779/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/GauravS43779/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1539-kth-missing-positive-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -249,6 +250,7 @@ Leetcode Solutions for the practice
 | [0344-reverse-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/GauravS43779/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0986-interval-list-intersections](https://github.com/GauravS43779/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -313,4 +315,8 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GauravS43779/leetcode-solutions/tree/master/0075-sort-colors) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/GauravS43779/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
