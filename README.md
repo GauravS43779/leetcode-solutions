@@ -30,6 +30,7 @@ Leetcode Solutions for the practice
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravS43779/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/GauravS43779/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GauravS43779/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/GauravS43779/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -107,6 +108,7 @@ Leetcode Solutions for the practice
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GauravS43779/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/GauravS43779/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Hash Table
@@ -147,6 +149,7 @@ Leetcode Solutions for the practice
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/GauravS43779/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravS43779/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/GauravS43779/leetcode-solutions/tree/master/0704-binary-search) |
@@ -308,6 +311,7 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GauravS43779/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/GauravS43779/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/GauravS43779/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
