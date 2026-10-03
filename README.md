@@ -219,10 +219,12 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/GauravS43779/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/GauravS43779/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/GauravS43779/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Longest Common Subsequence
 |  |
