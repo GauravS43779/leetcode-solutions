@@ -250,6 +250,7 @@ Leetcode Solutions for the practice
 | [0042-trapping-rain-water](https://github.com/GauravS43779/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/GauravS43779/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/GauravS43779/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/GauravS43779/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -308,6 +309,7 @@ Leetcode Solutions for the practice
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/GauravS43779/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
@@ -358,4 +360,8 @@ Leetcode Solutions for the practice
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/GauravS43779/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
