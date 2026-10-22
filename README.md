@@ -251,6 +251,7 @@ Leetcode Solutions for the practice
 | [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/GauravS43779/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/GauravS43779/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/GauravS43779/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/GauravS43779/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -310,6 +311,7 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GauravS43779/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/GauravS43779/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/GauravS43779/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
@@ -364,4 +366,5 @@ Leetcode Solutions for the practice
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GauravS43779/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/GauravS43779/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
