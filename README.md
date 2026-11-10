@@ -28,6 +28,7 @@ Leetcode Solutions for the practice
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravS43779/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/GauravS43779/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/GauravS43779/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravS43779/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/GauravS43779/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -195,6 +196,7 @@ Leetcode Solutions for the practice
 | [0013-roman-to-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GauravS43779/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/GauravS43779/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/GauravS43779/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/GauravS43779/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GauravS43779/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/GauravS43779/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -255,6 +257,7 @@ Leetcode Solutions for the practice
 | [0042-trapping-rain-water](https://github.com/GauravS43779/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/GauravS43779/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/GauravS43779/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/GauravS43779/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/GauravS43779/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GauravS43779/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/GauravS43779/leetcode-solutions/tree/master/0496-next-greater-element-i) |
