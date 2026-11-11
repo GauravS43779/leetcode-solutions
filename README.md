@@ -73,6 +73,7 @@ Leetcode Solutions for the practice
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravS43779/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1975-maximum-matrix-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GauravS43779/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/GauravS43779/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +204,7 @@ Leetcode Solutions for the practice
 | [0633-sum-of-square-numbers](https://github.com/GauravS43779/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/GauravS43779/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/GauravS43779/leetcode-solutions/tree/master/1390-four-divisors) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/GauravS43779/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/GauravS43779/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/GauravS43779/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Pigeonhole Principle
