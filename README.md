@@ -50,6 +50,7 @@ Leetcode Solutions for the practice
 | [1970-last-day-where-you-can-still-cross](https://github.com/GauravS43779/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2402-meeting-rooms-iii](https://github.com/GauravS43779/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GauravS43779/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GauravS43779/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
@@ -73,6 +74,7 @@ Leetcode Solutions for the practice
 | [0011-container-with-most-water](https://github.com/GauravS43779/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravS43779/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1975-maximum-matrix-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GauravS43779/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GauravS43779/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/GauravS43779/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
@@ -86,6 +88,7 @@ Leetcode Solutions for the practice
 | [0217-contains-duplicate](https://github.com/GauravS43779/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GauravS43779/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [2402-meeting-rooms-iii](https://github.com/GauravS43779/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GauravS43779/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GauravS43779/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GauravS43779/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
